@@ -85,7 +85,6 @@ export default {
   box-shadow: 0px 0px 10px rgba(36, 157, 175, 0.6);
 }
 .el-form {
-  width: 100%;
   min-width: 250px;
 }
 h1{
